@@ -5,7 +5,6 @@
             • Immutable - Once created, its items cannot change
             • Allow duplicate - allows multiple same value
             • Indexed - items are indexed
-            • 
 """
 
 
